@@ -1,4 +1,9 @@
 ## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=pew35)](https://github.com/ryo-ma/github-profile-trophy)
+## About me...
+- 🌱 I’m currently learning web development
+- :woman_technologist: I am a full-stack engineer
+- :star: I speak Chinese and English
 
 <!--
 **pew35/pew35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
